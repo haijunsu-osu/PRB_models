@@ -1,0 +1,5 @@
+{
+  "name": "PRBM Beam Visualizer",
+  "description": "A sophisticated tool for visualizing and comparing Pseudo-Rigid-Body Models (1R and 3R) with Linear and Nonlinear beam theories for various loading conditions based on the Handbook of Compliant Mechanisms.",
+  "requestFramePermissions": []
+}
